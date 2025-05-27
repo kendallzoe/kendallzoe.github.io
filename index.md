@@ -11,7 +11,6 @@ quick_facts:
   - "📍 Based in Chicago, IL"
   - "🚀 Passionate about informing others of the concerns around the world"
 
-linkedin: 
-https://www.linkedin.com/in/kendall-claytonn?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+linkedin: https://www.linkedin.com/in/kendall-claytonn?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 image: /assets/images/me.jpg
 ---
