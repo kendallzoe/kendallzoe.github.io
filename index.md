@@ -1,16 +1,17 @@
 ---
 layout: home
-title: Ta'quavian Johnson
+title: Kendall Clayton
 description: CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+motto: "You miss 100% of the shots you don't take"
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
-  - "📍 Based in Atlanta, GA"
-  - "🚀 Passionate about building smart systems for real-world impact"
+  - "🎓 Senior, Advertising with minor in Computer Science @ University of Illinois at Urbana Chamapaign"
+  - "🔬 Research: The African Diaspora Media Hub"
+  - "📍 Based in Chicago, IL"
+  - "🚀 Passionate about informing others of the concerns around the world"
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
+linkedin: 
+https://www.linkedin.com/in/kendall-claytonn?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 image: /assets/images/me.jpg
 ---
