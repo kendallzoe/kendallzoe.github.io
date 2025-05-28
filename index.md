@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about informing others of the concerns around the world"
 
 linkedin: https://www.linkedin.com/in/kendall-claytonn?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-image: /assets/images/me-kc.jpeg
+image: /assets/images/KClayton.jpeg
 ---
