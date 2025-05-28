@@ -17,14 +17,14 @@ about:
     When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
 
   hobbies:
-    - icon: 🎺
+    - icon: 📚
       title: Reading
       description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
+    - icon: 👥
       title: Hanging with Friends
       description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Ultizing Self Care techniques
+    - icon: 📹
+      title: Watching Youtube Videos
       description: I love modding old consoles and diving into pixel art games on emulators.
 
   gallery:
