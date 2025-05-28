@@ -4,12 +4,13 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
+  name: Kendall Clayton
+  role: Senior, Advertising Major with CS minor at the University of Illinois
   image: /assets/images/me.jpg
   linkedin: https://www.linkedin.com/in/taquavian-johnson/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I’m currently a Senioor studying Advertising at University of Illinois at Urbana Champaign. 
+    I expect to graduate in 2026!
 
     My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
 
@@ -17,13 +18,13 @@ about:
 
   hobbies:
     - icon: 🎺
-      title: Playing Guitar
+      title: Reading
       description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
     - icon: 🤖
-      title: Raspberry Pi Projects
+      title: Hanging with Friends
       description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
     - icon: 🕹️
-      title: Retro Gaming
+      title: Ultizing Self Care techniques
       description: I love modding old consoles and diving into pixel art games on emulators.
 
   gallery:
