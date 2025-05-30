@@ -4,31 +4,29 @@ title: About My Project
 permalink: /about-my-project.html
 
 subtitle: Neural Engineering & Assistive Robotics
-project_title: "NeuroLink Assist: Adaptive Robotics through Brain Signal Decoding"
+project_title: "The Afircan Disapora Media Hub"
 
 problem: |
-  Individuals with severe motor disabilities often struggle with basic tasks that could be aided by robotic assistance. However, there is a lack of accessible and adaptive systems that respond naturally to the user's intent via brain-computer interfaces.
+   Many Individuals around the world are ill informed of many things pertaining to Afircan Culture. There are many informational gaps, underrepresented narratives that have not been heard and not many cross-cultural connections among people of African Descent worldwide.
 
-  This project seeks to explore how neural signals can be translated into reliable control commands for assistive robots, improving autonomy and quality of life.
+  This project seeks to develop an African Disapora Media hub which is a curated digital platform designed to aggregate and centralize news and more.
 
 approach: |
-  The project follows a four-phase pipeline:
+  The project follows a multi-point pipeline:
 
-  - Collect EEG data during imagined movements using a non-invasive BCI headset
-  - Train machine learning models to decode intent from neural patterns
-  - Integrate real-time signal classification with a robotic arm interface
-  - Evaluate system performance in simulated daily activities (e.g., object grasping, pointing)
-
-  Open-source tools such as OpenBCI, Python (MNE, Scikit-learn), and ROS (Robot Operating System) will be used to prototype the system.
+  - Front-end devlopment, back-end support and web scraping 
+  - Training NLP models, reccomendation system testing, and user data analysis
+  - News/Media analysis, historical/cultural documentation and fact-checking
+  - video editing and social media content creation.
 
 outcome: |
-  By the end of the program, the project will result in a working prototype of a BCI-controlled robotic arm and a poster presentation outlining the system architecture, training pipeline, and evaluation metrics. Insights from the user study will inform future directions in adaptive assistive technology.
+  By the end of the program, the project will result in a working website with function codes and working API intergrations. People will be able to browse the website and be informed of the news and many other things taking place within the African disapora.
 
-final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
+final_report_url: tbd.
 
 grad_mentor:
-  name: Jamal Carter
-  linkedin: https://www.linkedin.com/in/jamal-carter
+  name: Dr. Baruti Kopano
+  linkedin: https://www.linkedin.com/in/baruti-kopano-34755a8/
 
 faculty_mentor:
   name: Dr. Elijah Freeman
