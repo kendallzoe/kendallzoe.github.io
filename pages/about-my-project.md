@@ -25,10 +25,10 @@ outcome: |
 final_report_url: tbd.
 
 grad_mentor:
-  name: Dr. Baruti Kopano
-  linkedin: https://www.linkedin.com/in/baruti-kopano-34755a8/
+  name: Raisa Nusrat Chowdhury
+  linkedin: https://www.linkedin.com/in/raisa-nusrat-chowdhury-48691a1a5/  
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  linkedin: https://www.linkedin.com/in/dr-elijah-freeman
+  name: Dr. Baruti Kopano
+  linkedin: https://www.linkedin.com/in/baruti-kopano-34755a8/
 ---
