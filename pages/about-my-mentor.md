@@ -9,9 +9,10 @@ graduate_mentor:
   image: /assets/images/graduate-student-mentor.jpg
   website: https://www.linkedin.com/in/raisa-nusrat-chowdhury-48691a1a5/
   bio: |
-    Raisa Nusrat Chowdhury is a Graduate Student in Advanced Computing, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
+    Raisa Nusrat Chowdhury is a Graduate Research Assistant at Morgan State University, contributing to the Computer Vision and Informatics Lab. Her work focuses on advanced topics in computer vision, machine learning, and data analytics.
     
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+    In 2023, she co-authored a research paper titled “Stress Mining from Sleep-Related Parameters,” presented at the Computational Methods in Systems and Software conference. This study explores the intersection of physiological data and stress detection using machine learning techniques. 
+
 
 faculty_mentor:
   name: Dr. Baruti Kopano
@@ -19,8 +20,8 @@ faculty_mentor:
   image: /assets/images/faculty-mentor.jpg
   website: https://www.linkedin.com/in/baruti-kopano-34755a8/
   bio: |
-    Dr. Baruti Kopano is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
+    Dr. Baruti N. Kopano is a distinguished professor in the Department of Multiplatform Production at Morgan State University’s School of Global Journalism and Communication. He holds a Ph.D. in English with a concentration in Rhetoric and Linguistics from Indiana University of Pennsylvania. His academic journey also includes an M.S. in Radio, Television, and Film from Syracuse University and a B.S. in Telecommunications from Morgan State University. 
     
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
+    At Morgan State University, Dr. Kopano teaches courses related to radio station operations and management, media law and ethics, and mass communication. He is known for his commitment to inclusive teaching practices, focusing on addressing equity gaps and fostering a sense of belonging among students
 
 ---
