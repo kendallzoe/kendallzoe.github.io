@@ -1,34 +1,34 @@
 ---
 layout: project
-title: About My Project
+title: "About My Project"
 permalink: /about-my-project.html
 
-subtitle: Neural Engineering & Assistive Robotics
-project_title: "The Afircan Disapora Media Hub"
+subtitle: "Neural Engineering & Assistive Robotics"
+project_title: "The African Diaspora Media Hub"
 
 problem: |
-   Many Individuals around the world are ill informed of many things pertaining to Afircan Culture. There are many informational gaps, underrepresented narratives that have not been heard and not many cross-cultural connections among people of African Descent worldwide.
+  Many individuals around the world are ill-informed about African culture. There are significant informational gaps and underrepresented narratives that remain unheard, with limited cross-cultural connections among people of African descent globally.
 
-  This project seeks to develop an African Disapora Media hub which is a curated digital platform designed to aggregate and centralize news and more.
+  This project seeks to develop the African Diaspora Media Hub — a curated digital platform designed to aggregate, centralize, and share news, cultural insights, and historical context related to the global African diaspora.
 
 approach: |
-  The project follows a multi-point pipeline:
+  The project follows a multi-stage development pipeline:
 
-  - Front-end devlopment, back-end support and web scraping 
-  - Training NLP models, reccomendation system testing, and user data analysis
-  - News/Media analysis, historical/cultural documentation and fact-checking
-  - video editing and social media content creation.
+  - Front-end development, back-end support, and web scraping
+  - Training natural language processing (NLP) models, testing recommendation systems, and analyzing user data
+  - Conducting media analysis, curating historical and cultural documentation, and implementing fact-checking workflows
+  - Video editing and content creation for social media engagement
 
 outcome: |
-  By the end of the program, the project will result in a working website with function codes and working API intergrations. People will be able to browse the website and be informed of the news and many other things taking place within the African disapora.
+  By the end of the program, the project will produce a functional website with integrated APIs and interactive features. Visitors will be able to explore news, stories, and cultural content relevant to the African diaspora, fostering greater global understanding and connection.
 
-final_report_url: tbd.
+final_report_url: "tbd"
 
 grad_mentor:
-  name: Raisa Nusrat Chowdhury
-  linkedin: https://www.linkedin.com/in/raisa-nusrat-chowdhury-48691a1a5/  
+  name: "Raisa Nusrat Chowdhury"
+  linkedin: "https://www.linkedin.com/in/raisa-nusrat-chowdhury-48691a1a5/"
 
 faculty_mentor:
-  name: Dr. Baruti Kopano
-  linkedin: https://www.linkedin.com/in/baruti-kopano-34755a8/
+  name: "Dr. Baruti Kopano"
+  linkedin: "https://www.linkedin.com/in/baruti-kopano-34755a8/"
 ---
