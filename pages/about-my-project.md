@@ -3,7 +3,7 @@ layout: project
 title: "About My Project"
 permalink: /about-my-project.html
 
-subtitle: "Neural Engineering & Assistive Robotics"
+subtitle: "A Central Platform for News, Culture, and Voices Across the African Diaspora"
 project_title: "The African Diaspora Media Hub"
 
 problem: |
