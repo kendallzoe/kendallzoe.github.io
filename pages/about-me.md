@@ -28,7 +28,7 @@ about:
       description: I love watching gaming videos or even funny videos!
 
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
+    - image: /assets/images/IMG_0140.JPG
+      caption: Me and some of my ships!
    
 ---
