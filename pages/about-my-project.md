@@ -22,7 +22,7 @@ approach: |
 outcome: |
   By the end of the program, the project will produce a functional website with integrated APIs and interactive features. Visitors will be able to explore news, stories, and cultural content relevant to the African diaspora, fostering greater global understanding and connection.
 
-final_report_url: "tbd"
+final_report_url: ""
 
 grad_mentor:
   name: "Raisa Nusrat Chowdhury"
