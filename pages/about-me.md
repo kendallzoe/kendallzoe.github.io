@@ -7,7 +7,7 @@ about:
   name: Kendall Clayton
   role: Senior, Advertising Major with CS minor at the University of Illinois
   image: /assets/images/KClayton.jpeg
-  linkedin: n/a
+  linkedin: https://canvas.instructure.com/courses/11743233/assignments/56837312?module_item_id=135442012
   bio: |
     I’m currently a Senior studying Advertising at University of Illinois at Urbana Champaign. 
     I expect to graduate in 2026!
