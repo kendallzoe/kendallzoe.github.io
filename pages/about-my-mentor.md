@@ -7,7 +7,7 @@ graduate_mentor:
   name: Raisa Nusrat Chowdhury
   title: Graduate Student in Advanced Computing 
   image: /assets/images/Raisa.jpeg
-  website: n/a
+  website: https://canvas.instructure.com/courses/11743233/assignments/56837312?module_item_id=135442012
   bio: |
     Raisa Nusrat Chowdhury is a Graduate Research Assistant at Morgan State University, contributing to the Computer Vision and Informatics Lab. Her work focuses on advanced topics in computer vision, machine learning, and data analytics.
     
